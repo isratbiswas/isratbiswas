@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Israt Jahan
 #### Full Stack Developer
-![Full Stack Developer](https://plus.unsplash.com/premium_photo-1720287601920-ee8c503af775?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870)
+![Full Stack Developer]
 
 Full-stack web developer skilled in Next.js, React, Node.js, PostgreSQL, Prisma, and Mongoose. Passionate about writing clean, maintainable code and building secure, scalable, and high-performance web applications that deliver exceptional user experiences.
 
