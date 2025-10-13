@@ -1,7 +1,7 @@
 # Hi, I'm Israt 👋
 **Full-stack Web Developer** | Next.js | React | Node.js | PostgreSQL | Prisma | Mongoose  
 
-##About me
+## About me
 Passionate about writing clean, maintainable code and building **secure, scalable, high-performance web applications** that deliver exceptional user experiences.  
 
 ---
