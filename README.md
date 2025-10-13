@@ -6,7 +6,27 @@ Full-stack web developer skilled in Next.js, React, Node.js, PostgreSQL, Prisma,
 - 👯 I’m looking to collaborate on github 
 - 📫 How to reach me: isratbiswas28@gmail.com 
 
-Skills: Next  / REACT / TypeScript / JS / Nosq l/ mySql / HTML / CSS
+⚒️ Tech Stack & Tools
+
+React ⚛️
+
+Next.js ⬆️
+
+TypeScript 🟦
+
+TailwindCSS 🌬️
+
+Node.js 🟩
+
+Express 🚂
+
+MongoDB 🍃
+
+Firebase 🔥
+
+Redux 🌀
+
+Git 🐙
 
 
 
