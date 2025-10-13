@@ -1,47 +1,21 @@
-# Hi, I'm Israt 👋
-**Full-stack Web Developer** | Next.js | React | Node.js | PostgreSQL | Prisma | Mongoose  
+### Hi there 👋, I'm Israt Jahan
+#### Full Stack Developer
+![Full Stack Developer](https://plus.unsplash.com/premium_photo-1720287601920-ee8c503af775?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870)
 
-## About me
-Passionate about writing clean, maintainable code and building **secure, scalable, high-performance web applications** that deliver exceptional user experiences.  
+Full-stack web developer skilled in Next.js, React, Node.js, PostgreSQL, Prisma, and Mongoose. Passionate about writing clean, maintainable code and building secure, scalable, and high-performance web applications that deliver exceptional user experiences.
 
----
+Skills: Next  / REACT / TypeScript / JS / Nosq l/ mySql / HTML / CSS
 
-## 🚀 Tech Stack
-**Frontend:** Next.js, React, Tailwind CSS  
-**Backend:** Node.js, Express.js, Prisma, Mongoose  
-**Database:** PostgreSQL, MongoDB  
-**Tools & Others:** Git, GitHub, REST APIs, JWT, Figma
----
+- 🌱 I’m currently learning Next js and postgresql 
+- 👯 I’m looking to collaborate on github 
+- 📫 How to reach me: isratbiswas28@gmail.com 
 
-## 📂 Pinned Projects
 
-### [E-commerce Website](#)
-A full-stack eCommerce app with Stripe payment integration and admin dashboard.  
-**Tech:** Next.js, Tailwind CSS, Node.js, PostgreSQL, Prisma  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/isratbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/israt.jahan.239449)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-silk-tau-azmo5iov1n.vercel.app)  
 
-### [Ride Booking App](#https://rider-system.vercel.app)
-Scalable ride-booking system inspired by Uber and Pathao, with role-based authentication.  
-**Tech:** React, Node.js, MongoDB, Mongoose  
+[![trophy](https://github-profile-trophy.vercel.app/?username=isratbiswas)](https://github.com/ryo-ma/github-profile-trophy)
 
-### [Portfolio Website](#https://portfolio-silk-tau-azmo5iov1n.vercel.app)
-Personal portfolio to showcase projects and skills.  
-**Tech:** Next.js, TypeScript, Tailwind CSS  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isratbiswas)](https://github.com/anuraghazra/github-readme-stats)
 
----
+![GitHub streak stats](https://streak-stats.demolab.com/?user=isratbiswas)  
 
-## 📈 GitHub Stats
-![Israt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isratjahan&show_icons=true&theme=tokyonight&count_private=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isratjahan&layout=compact&theme=tokyonight)
-
----
-
-## 🎯 Fun Fact
-I turn coffee into code ☕💻  
-
----
-
-## 📫 Connect with Me
-- [LinkedIn](#)  
-- [Portfolio](#https://portfolio-silk-tau-azmo5iov1n.vercel.app/)  
-- [Email](#isratbiswas28@gmail.com)  
