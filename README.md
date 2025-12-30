@@ -9,38 +9,46 @@ Full-stack web developer skilled in Next.js, React, Node.js, PostgreSQL, Prisma,
 
 ### 🚀 Tech Stack & Skills
 
-<div align="left" style="background-color:#0d1117; padding:20px; border-radius:12px; border:1px solid #30363d;">
+<div align="left">
 
-<h3>Frontend</h3>
+<!-- ==== Frontend ==== -->
+**Frontend**
+<br/>
 
-- ⚛️ <strong>React</strong>
-- ⬆️ <strong>Next.js</strong>
-- 🟦 <strong>TypeScript</strong>
-- 🌬️ <strong>TailwindCSS</strong>
-- 🌀 <strong>Redux / Redux Toolkit</strong>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-<br />
+<br/>
 
-<h3>Backend</h3>
+<!-- ==== Backend ==== -->
+**Backend**
+<br/>
 
-- 🟩 <strong>Node.js</strong>
-- 🚂 <strong>Express</strong>
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<br />
+<br/>
 
-<h3>Database & Cloud</h3>
+<!-- ==== Database & Cloud ==== -->
+**Database & Cloud**
+<br/>
 
-- 🍃 <strong>MongoDB</strong>
-- 🔥 <strong>Firebase</strong>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-<br />
+<br/>
 
-<h3>Tools & Others</h3>
+<!-- ==== Tools & Others ==== -->
+**Tools & Others**
+<br/>
 
-- 🐙 <strong>Git</strong>
-- 📦 <strong>REST APIs</strong>
-- 🔧 <strong>Postman</strong>
-- ⚙️ <strong>Prisma (Learning / Planning)</strong>
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
 
 </div>
 
