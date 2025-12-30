@@ -6,30 +6,41 @@ Full-stack web developer skilled in Next.js, React, Node.js, PostgreSQL, Prisma,
 - 👯 I’m looking to collaborate on github 
 - 📫 How to reach me: isratbiswas28@gmail.com 
 
+
 ### 🚀 Tech Stack & Skills
 
-<div align="left">
+<div align="left" style="background-color:#0d1117; padding:20px; border-radius:12px; border:1px solid #30363d;">
 
-**Frontend**
-- ⚛️ **React**
-- ⬆️ **Next.js**
-- 🟦 **TypeScript**
-- 🌬️ **TailwindCSS**
-- 🌀 **Redux / Redux Toolkit**
+<h3>Frontend</h3>
 
-**Backend**
-- 🟩 **Node.js**
-- 🚂 **Express**
+- ⚛️ <strong>React</strong>
+- ⬆️ <strong>Next.js</strong>
+- 🟦 <strong>TypeScript</strong>
+- 🌬️ <strong>TailwindCSS</strong>
+- 🌀 <strong>Redux / Redux Toolkit</strong>
 
-**Database & Cloud**
-- 🍃 **MongoDB**
-- 🔥 **Firebase**
+<br />
 
-**Tools & Others**
-- 🐙 **Git**
-- 📦 **REST APIs**
-- 🔧 **Postman**
-- ⚙️ **Prisma (Learning / Planning)**
+<h3>Backend</h3>
+
+- 🟩 <strong>Node.js</strong>
+- 🚂 <strong>Express</strong>
+
+<br />
+
+<h3>Database & Cloud</h3>
+
+- 🍃 <strong>MongoDB</strong>
+- 🔥 <strong>Firebase</strong>
+
+<br />
+
+<h3>Tools & Others</h3>
+
+- 🐙 <strong>Git</strong>
+- 📦 <strong>REST APIs</strong>
+- 🔧 <strong>Postman</strong>
+- ⚙️ <strong>Prisma (Learning / Planning)</strong>
 
 </div>
 
