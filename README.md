@@ -52,14 +52,13 @@ Full-stack web developer skilled in Next.js, React, Node.js, PostgreSQL, Prisma,
 
 </div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/isratbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/israt.jahan.239449)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-silk-tau-azmo5iov1n.vercel.app)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/isratbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/israt.jahan.239449)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://my-portfolio-wine-sigma-52.vercel.app)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isratbiswas)]
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isratbiswas&show_icons=true)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=isratbiswas)  
 
-https://my-portfolio-wine-sigma-52.vercel.app
+
 
 
 
