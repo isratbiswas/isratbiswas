@@ -8,8 +8,8 @@ Full-stack web developer skilled in Next.js, React, Node.js, PostgreSQL, Prisma,
 
  ## ⚒️ Tech Stack & Tools
 
- ⚛️ React
 
+<div className="text-green-500 font-bold p-4"> ⚛️ React</div>
 Next.js ⬆️
 
 TypeScript 🟦
