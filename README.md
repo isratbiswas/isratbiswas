@@ -63,7 +63,7 @@ Full-stack web developer skilled in Next.js, React, Node.js, PostgreSQL, Prisma,
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayasIbrahim&theme=radical&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isratbiswas&theme=radical&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ Full-stack web developer skilled in Next.js, React, Node.js, PostgreSQL, Prisma,
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=isratbiswas)  
+
 
 
 
