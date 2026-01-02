@@ -59,8 +59,8 @@ Full-stack web developer skilled in Next.js, React, Node.js, PostgreSQL, Prisma,
   height="240" alt="Languages Card" />
   <img
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=isratbiswas&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-  width="500"
-  height="240"
+  width="498"
+  height="200"
   alt="Stats Card"
 />
 </p>
