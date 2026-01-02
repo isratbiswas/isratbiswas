@@ -55,19 +55,8 @@ Full-stack web developer skilled in Next.js, React, Node.js, PostgreSQL, Prisma,
 ### 📊 GitHub Metrics & Activity
 
 <p align="center">
- <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isratbiswas&layout=compact&theme=radical&hide_border=true&langs_count=6"
-  width="400"
-  height="180"
-  alt="Languages Card"
-/>
-
-<img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=isratbiswas&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-  width="400"
-  height="180"
-  alt="Stats Card"
-/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isratbiswas&layout=compact&theme=radical&hide_border=true&langs_count=6" width="400" height="180" alt="Languages Card" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isratbiswas&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="400" height="180" alt="Stats Card" />
 </p>
 
 
