@@ -70,7 +70,7 @@ Full-stack web developer skilled in Next.js, React, Node.js, PostgreSQL, Prisma,
 
 <p align="center">
   <i>“Clean code, scalable architecture, and continuous learning are my keys to growth.”</i> <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=isratbiswas.isratbiswas" alt="Visitor Badge" />
+
 </p>
 
 
