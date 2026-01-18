@@ -12,7 +12,7 @@ Full-stack web developer skilled in Next.js, React, Node.js, PostgreSQL, Prisma,
 <div align="left">
 
 <!-- ==== Frontend ==== -->
-**Frontend**
+  <h2>**Frontend**</h2>
 <br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
