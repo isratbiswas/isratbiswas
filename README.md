@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Israt Jahan
 #### <h1>Full Stack Developer</h1>
-Full-stack web developer skilled in Next.js, React, Node.js, Express.js,  MongoDB,  PostgreSQL, Prisma, and Mongoose. Passionate about writing clean, maintainable code and building secure, scalable, and high-performance web applications that deliver exceptional user experiences.
+Full-stack web developer skilled in Next.js, React.js, Node.js, Express.js,  MongoDB,  PostgreSQL, Prisma, and Mongoose. Passionate about writing clean, maintainable code and building secure, scalable, and high-performance web applications that deliver exceptional user experiences.
 ## About me
 - 🌱 I’m currently learning Next js and postgresql 
 - 👯 I’m looking to collaborate on github 
